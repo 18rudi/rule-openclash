@@ -1,5 +1,6 @@
 payload:
   # MobileLegends
+  # port game ML yg didapat dari grup FB pejuang GSM https://web.facebook.com/groups/831846093966759
   - DOMAIN-SUFFIX,mobilelegends.com
   - DOMAIN-SUFFIX,mobilelegends.ca
   - DOMAIN-SUFFIX,mobilelegends.cn
