@@ -1,9 +1,10 @@
-  - DST-PORT,1701
+  
 payload:
   # Mulai baris ini kebawah bisa di edit/hapus
   # whatsapp
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
+  - DST-PORT,1701
   - DST-PORT,1900
   - DST-PORT,3478
   - DST-PORT,5060
