@@ -63,5 +63,6 @@ payload:
   - DST-PORT,8080
   
   #- DOMAIN-KEYWORD,shopee
+  - DOMAIN-KEYWORD,loklok
 
   #- PROCESS-NAME,com.zhiliaoapp.musically
