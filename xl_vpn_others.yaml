@@ -65,4 +65,6 @@ payload:
   #- DOMAIN-KEYWORD,shopee
   - DOMAIN-KEYWORD,loklok
 
+  - DOMAIN-SUFFIX,musixmatch.com
+
   #- PROCESS-NAME,com.zhiliaoapp.musically
