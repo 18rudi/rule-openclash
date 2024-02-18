@@ -70,3 +70,5 @@ payload:
   #- PROCESS-NAME,com.zhiliaoapp.musically
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitpic.com
