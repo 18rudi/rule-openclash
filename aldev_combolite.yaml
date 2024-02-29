@@ -1,5 +1,5 @@
 payload:
-  # Youtube
+  # Youtube combolite 
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
   - DOMAIN-SUFFIX,ggpht.cn
