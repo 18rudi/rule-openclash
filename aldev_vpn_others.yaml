@@ -62,7 +62,7 @@ payload:
   - DOMAIN-KEYWORD,wifiman
   - DST-PORT,8080
   
-  #- DOMAIN-KEYWORD,shopee
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-KEYWORD,loklok
 
   - DOMAIN-SUFFIX,musixmatch.com
