@@ -61,7 +61,7 @@ payload:
   - DOMAIN-KEYWORD,openspeedtest
   - DOMAIN-KEYWORD,wifiman
   - DST-PORT,8080
-  
+  #github
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-KEYWORD,loklok
 
