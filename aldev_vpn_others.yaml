@@ -72,3 +72,5 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,ip-api.com
+ 
