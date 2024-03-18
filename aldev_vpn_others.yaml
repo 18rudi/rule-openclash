@@ -1,4 +1,4 @@
-# TikTok
+u# TikTok
 # Src: https://www.netify.ai/resources/applications/tiktok
 payload:
   - DOMAIN-KEYWORD,-tiktok.byteoversea.com
@@ -74,5 +74,5 @@ payload:
   - DOMAIN-SUFFIX,twitpic.com
   - DOMAIN-SUFFIX,ip-api.com
 
-  - SRC-IP-CIDR,172.17.0.0/16
+#  - SRC-IP-CIDR,172.17.0.0/16
  
