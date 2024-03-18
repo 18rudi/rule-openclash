@@ -74,5 +74,5 @@ payload:
   - DOMAIN-SUFFIX,twitpic.com
   - DOMAIN-SUFFIX,ip-api.com
 
-#  - SRC-IP-CIDR,172.17.0.0/16
+  - SRC-IP-CIDR,172.17.0.0/16
  
